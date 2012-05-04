@@ -10,6 +10,3 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = git://github.com/majutsushi/tagbar.git
-[submodule "vim-pathogen"]
-	path = bundle/vim-pathogen
-	url = git://github.com/tpope/vim-pathogen.git
