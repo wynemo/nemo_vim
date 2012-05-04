@@ -10,3 +10,6 @@
 [submodule "bundle/code_complete"]
 	path = bundle/code_complete
 	url = git://github.com/scrooloose/code_complete.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
