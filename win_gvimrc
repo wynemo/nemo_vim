@@ -1,3 +1,5 @@
 " windows下把gvim的lang文件夹删了，语言就为英文了
 " gvim 7.3.46
+source $VIMRUNTIME/mswin.vim
+behave mswin
 set guifont=Inconsolata:h12:cANSI
