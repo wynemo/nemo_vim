@@ -3,7 +3,7 @@ set nu
 set ruler
 set hlsearch
 set t_Co=256 " vim 256 color support
-colorscheme elflord
-set background=dark
+colorscheme molokai
+set bg=dark
 syntax on
 set cc=80
