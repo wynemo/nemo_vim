@@ -19,9 +19,6 @@
 [submodule "bundle/rainbow_parentheses.vim"]
 	path = bundle/rainbow_parentheses.vim
 	url = git://github.com/kien/rainbow_parentheses.vim.git
-[submodule "bundle/statusline-vim"]
-	path = bundle/statusline-vim
-	url = git://github.com/nebelschwade/statusline-vim.git
 [submodule "bundle/vim-powerline"]
 	path = bundle/vim-powerline
 	url = git://github.com/Lokaltog/vim-powerline.git
