@@ -2,4 +2,4 @@
 " gvim 7.3.46
 source $VIMRUNTIME/mswin.vim
 behave mswin
-set guifont=Inconsolata:h12:cANSI
+set guifont=Consolas:h11:cANSI
