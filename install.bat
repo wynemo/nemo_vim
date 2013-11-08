@@ -2,7 +2,7 @@ REM win7 required, download junction.exe at http://technet.microsoft.com/en-us/s
 REM run as admin
 fsutil hardlink create %USERPROFILE%\_vimrc %USERPROFILE%\.vim\vimrc
 fsutil hardlink create %USERPROFILE%\_gvimrc %USERPROFILE%\.vim\win_gvimrc
-%USERPROFILE%/bin/junction.exe -q %USERPROFILE%\vimfiles %USERPROFILE%\.vim
+junction -q %USERPROFILE%\vimfiles %USERPROFILE%\.vim
 cd %USERPROFILE%\.vim
 REM set path=%path%;C:\git\bin
 git submodule update --init
