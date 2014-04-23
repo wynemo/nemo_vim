@@ -5,7 +5,8 @@ set hlsearch
 "set t_Co=256 " vim 256 color support
 colorscheme molokai
 set bg=dark
-syntax on
+syntax enable
+filetype plugin indent on
 set cc=80
 
 set nocompatible   " Disable vi-compatibility
